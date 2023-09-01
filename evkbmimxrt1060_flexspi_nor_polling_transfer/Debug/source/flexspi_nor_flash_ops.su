@@ -1,0 +1,16 @@
+C:\Users\PDS-User\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkbmimxrt1060_flexspi_nor_polling_transfer\drivers/fsl_clock.h:1408:20:CLOCK_SetMux	24	static
+C:\Users\PDS-User\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkbmimxrt1060_flexspi_nor_polling_transfer\drivers/fsl_clock.h:1460:20:CLOCK_SetDiv	24	static
+C:\Users\PDS-User\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkbmimxrt1060_flexspi_nor_polling_transfer\drivers/fsl_flexspi.h:431:20:FLEXSPI_SoftwareReset	16	static
+../source/app.h:75:20:flexspi_clock_init	8	static
+../source/flexspi_nor_flash_ops.c:54:6:flexspi_nor_disable_cache	32	static
+../source/flexspi_nor_flash_ops.c:95:6:flexspi_nor_enable_cache	32	static
+../source/flexspi_nor_flash_ops.c:137:10:flexspi_nor_write_enable	40	static
+../source/flexspi_nor_flash_ops.c:154:10:flexspi_nor_wait_bus_busy	48	static
+../source/flexspi_nor_flash_ops.c:206:10:flexspi_nor_enable_quad_mode	48	static
+../source/flexspi_nor_flash_ops.c:303:10:flexspi_nor_flash_erase_sector	40	static
+../source/flexspi_nor_flash_ops.c:351:10:flexspi_nor_flash_read	48	static
+../source/flexspi_nor_flash_ops.c:402:10:flexspi_nor_flash_program	48	static
+../source/flexspi_nor_flash_ops.c:453:10:flexspi_nor_flash_page_program	48	static
+../source/flexspi_nor_flash_ops.c:513:10:flexspi_nor_get_vendor_id	40	static
+../source/flexspi_nor_flash_ops.c:541:10:flexspi_nor_erase_chip	40	static
+../source/flexspi_nor_flash_ops.c:581:6:flexspi_nor_flash_init	312	static

@@ -1,0 +1,11 @@
+C:\Users\PDS-User\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkbmimxrt1060_flexspi_nor_polling_transfer\CMSIS/core_cm7.h:1911:22:__NVIC_EnableIRQ	16	static
+C:\Users\PDS-User\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkbmimxrt1060_flexspi_nor_polling_transfer\CMSIS/core_cm7.h:2041:22:__NVIC_SetPriority	16	static
+C:\Users\PDS-User\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkbmimxrt1060_flexspi_nor_polling_transfer\drivers/fsl_common_arm.h:499:24:EnableIRQ	24	static
+../source/flexspi_nor_polling_transfer.c:174:7:USB_OTG1_IRQHandler	8	static
+../source/flexspi_nor_polling_transfer.c:179:7:USB_OTG2_IRQHandler	8	static
+../source/flexspi_nor_polling_transfer.c:184:7:USB_HostClockInit	16	static
+../source/flexspi_nor_polling_transfer.c:205:7:USB_HostIsrEnable	16	static
+../source/flexspi_nor_polling_transfer.c:222:7:USB_HostTaskFn	16	static
+../source/flexspi_nor_polling_transfer.c:237:21:USB_HostEvent	32	static
+../source/flexspi_nor_polling_transfer.c:324:13:USB_HostApplicationInit	16	static
+../source/flexspi_nor_polling_transfer.c:345:5:main	72	static
